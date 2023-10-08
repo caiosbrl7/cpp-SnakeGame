@@ -7,4 +7,4 @@ I pretend to do another version of this with some graphics library but for now I
 
 I used Visual Studio IDE in this one and I used both the standard C++ library for i/o and the conio.h library that reads information coming from the keyboard.
 
-Definitly learned a lot and had some fun!
+Definitely learned a lot and had some fun!
